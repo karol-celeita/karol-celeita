@@ -1,6 +1,6 @@
 ![image](https://github.com/karol-celeita/karol-celeita/assets/42189133/08c4df54-0df7-45be-9a8a-a24e17cad339)
 
-<h1>  <samp>&gt; Hi, I'm <b><a target="_blank" href="https://https://karolceleita.tech/">Karol Celeita</a></b></samp>
+<h1>  <samp>&gt; Hi, I'm <b><a target="_blank" href="https://karolceleita.tech/">Karol Celeita</a></b></samp>
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
     <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="130">
 <p><em>Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -41,14 +41,14 @@ Like My Work?
 
 
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
-<p><a target="_blank" href="https://https://karolceleita.tech/">Karol Celeita Tech</a></p>
+<p><a target="_blank" href="https://karolceleita.tech/">Karol Celeita Tech</a></p>
 
 ##  Social 🌐
 
 <p align="center">
     <a href="mailto:karolceleitag@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
     <a href="https://www.linkedin.com/in/karol-celeita"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-    <a href="https://https://www.facebook.com/tatiana.celeita.7/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+    <a href="https://www.facebook.com/tatiana.celeita.7/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
     <a href="https://www.instagram.com/karol_celeita/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
     <a href="https://www.tiktok.com/@karol.dex"><img src="https://img.icons8.com/color/96/tiktok.png" alt="tiktok"/></a>
     
