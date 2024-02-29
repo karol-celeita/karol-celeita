@@ -5,7 +5,7 @@
     <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="130">
 <p><em>Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em>
-   <br>I work with Python,  Django,  JS ,  SASS, Bootstrap and other incredible tecnologies.
+   <br>I work with Python and other incredible tecnologies.
 </p>
 <br>
 
@@ -14,25 +14,30 @@
 
 
 ```python
-const Karol = {
-  "name:" "Karol Celeita",
-  "location: "Colombia 🇨🇴",
-  "role: "Desarrolladora de Software y Diseñadora de Experiencia de Usuario",
-  "ProgramingLanguages" : { "Python", "Javascript" },
-  "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-  "Database" : { "PosgreSQL", "Sqlite", "MySQL"},
-  "Editors" : { "Vscode", "Sublime" },
-  "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-  "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  "hobbies:" ["Observar aves", "Explorar la naturaleza", "Practicar yoga"],
-  "challenge" : "Actualmente estoy embarcada en el desafío #100DaysOfCode, enfocado en mejorar mis habilidades en Python y explorar nuevas tecnologías."
+karol = {
+    "name": "Karol Celeita",
+    "location": "Colombia 🇨🇴",
+    "role": "Software Developer and User Experience Designer",
+    "programming_languages": ["Python", "Javascript"],
+    "other_languages": ["CSS", "Bash", "Json", "Markdown", "SASS"],
+    "databases": ["PosgreSQL", "Sqlite", "MySQL"],
+    "libraries": ["Pandas", "Numpy", "Swagger", "Chat.js"],
+    "cloud": ["AWS", "DigitalOcean", "Azure"],
+    "management_tools": ["Jira", "Confluence", "Trello"],
+    "editors": ["Vscode", "Sublime"],
+    "frameworks": ["Django", "FastApi", "Bootstrap"],
+    "platforms": ["PowerBI", "GNU/Linux", "Windows"],
+    "other_tools": ["Git", "Figma", "Photoshop", "Adobe"],
+    "hobbies": ["Bird Watching", "Exploring Nature", "Practicing Yoga"],
+    "challenge": "I am currently embarked on the #100DaysOfCode challenge, focused on improving my skills in Python and exploring new technologies."
 }
 
-print(f"¡Hola! 👋 Soy {yo['nombre']}, una entusiasta {yo['rol']} en {yo['ubicación']}.")
+print(f"Hello! 👋 I'm {karol['name']}, an enthusiastic {karol['role']} in {karol['location']}.")
 
-print("\nEn el mundo del desarrollo, me destaco en el backend con Python, trabajando con diversos frameworks como Django, Flask y FastAPI.")
-print("Cuando no estoy codificando, me gusta estimular mi creatividad con actividades como dibujar, escribir y sumergirme en un buen libro.")
-print("\n¡Siempre en busca de nuevos desafíos y aprendizajes!")
+print("\nIn the development world, I excel in backend development with Python, working with various frameworks like Django, Flask, and FastAPI.")
+print("When I'm not coding, I enjoy stimulating my creativity with activities such as drawing, writing, and diving into a good book.")
+print("\nAlways seeking new challenges and learning opportunities!")
+
 ```
 Like My Work?
 
